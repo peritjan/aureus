@@ -1,0 +1,8 @@
+{
+  "name": "Aureus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3d04b0b2"
+}
